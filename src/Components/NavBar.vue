@@ -25,12 +25,14 @@
                             <i class="nc-icon nc-bullet-list-67"></i>
                             Services
                         </router-link>
-                        <a href="#payment" class="dropdown-item"><i class="nc-icon nc-money-coins"></i>
+                        <router-link to="/#payment" class="dropdown-item">
+                            <i class="nc-icon nc-money-coins"></i>
                             Payment Method
-                        </a>
-                        <a href="#partners" class="dropdown-item"><i class="nc-icon nc-single-02"></i>
+                        </router-link>
+                        <router-link to="/#partners" class="dropdown-item">
+                            <i class="nc-icon nc-single-02"></i>
                             Partners
-                        </a>
+                        </router-link>
                     </div>
                 </li>
                 <li class="nav-item">
