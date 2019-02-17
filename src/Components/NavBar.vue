@@ -21,7 +21,7 @@
                         <!-- <a href="#features" class="dropdown-item"><i class="nc-icon nc-bullet-list-67"></i>
                             Services
                         </a> -->
-                        <router-link to="/#features" class="dropdown-item">
+                        <router-link to="/#services" class="dropdown-item">
                             <i class="nc-icon nc-bullet-list-67"></i>
                             Services
                         </router-link>
@@ -57,7 +57,7 @@
 
                 </li>
                 <li class="nav-item">
-                    <a class="btn btn-round btn-border" style="background-color:#004578; " href="" target="_blank">
+                    <a class="btn btn-round btn-border" style="background-color:#0f60a3;" href="" target="_blank">
                         <i class="nc-icon nc-cart-simple"></i> Buy Now
                     </a>
                 </li>
