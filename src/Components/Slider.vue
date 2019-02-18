@@ -145,7 +145,6 @@
 		},
 		methods: {
 			background (item) {
-				console.log(item);
 				if (item.background_type == 0)
 					return {
 						backgroundImage: 'url(' + item.background_value + ')',

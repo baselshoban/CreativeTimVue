@@ -16,7 +16,7 @@
     <!-- <div class="section section-contactus"> -->
         <news-list-section identifier="news"></news-list-section>
         <application-section identifier="policy"></application-section>
-        <contact-us-section identifier="contact"></contact-us-section>
+        <contact-us-section identifier="contact-us"></contact-us-section>
         <contact-us-map identifier="contactUsMap2"></contact-us-map>
         
     <!-- </div> -->

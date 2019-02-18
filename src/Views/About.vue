@@ -1,20 +1,18 @@
 <template>
 	<div>
 		<showcase></showcase>
-		<!--     *********    ABOUT US     *********      -->
-		<div class="project-4 section section-dark">
-		    <about-list></about-list>
-		</div>
+		
+	    <about-list-section></about-list-section>
 	</div>
 </template>
 
 <script>
 	import Showcase from '../Components/Showcase.vue';
-	import AboutList from '../Components/AboutList.vue';
+	import AboutListSection from '../Components/AboutListSection.vue';
 	export default {
 		components: {
 			Showcase,
-			AboutList
+			AboutListSection
 		},
 	}
 </script>

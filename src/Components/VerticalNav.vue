@@ -45,7 +45,7 @@
 	            </a>
 	        </li>
 	        <li>
-	            <a href="#contact" data-number="8">
+	            <a href="#contact-us" data-number="8">
 	                <span class="cd-dot"></span>
 	                <span class="cd-label">Contact Us</span>
 	            </a>
